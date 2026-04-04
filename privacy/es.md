@@ -109,6 +109,6 @@ Podemos actualizar esta Política de Privacidad de vez en cuando. Te notificarem
 
 Para preguntas sobre esta Política de Privacidad, tus datos o para ejercer tus derechos ARCO:
 
-**Correo:** privacy@benjiapp.com
+**Correo:** legal@benji-app.org
 
 Benji App es el responsable del tratamiento de tus datos personales conforme a esta Política de Privacidad.

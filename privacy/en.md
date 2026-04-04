@@ -109,6 +109,6 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 For questions about this Privacy Policy, your data, or to exercise your ARCO rights:
 
-**Email:** privacy@benjiapp.com
+**Email:** legal@benji-app.org
 
 Benji App is the data controller responsible for your personal data under this Privacy Policy.

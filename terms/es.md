@@ -76,7 +76,7 @@ Podemos modificar estos términos en cualquier momento. El uso continuado de la 
 
 ## Resolución de Disputas
 
-Cualquier disputa que surja de estos términos se abordará primero mediante negociación informal. Contáctanos en legal@benjiapp.com para resolver asuntos directamente.
+Cualquier disputa que surja de estos términos se abordará primero mediante negociación informal. Contáctanos en legal@benji-app.org para resolver asuntos directamente.
 
 Si la resolución informal no es exitosa, las disputas se resolverán conforme a la ley federal mexicana, incluyendo las leyes de protección al consumidor aplicables. Nada en estos términos limita tus derechos legales como consumidor.
 
@@ -84,4 +84,4 @@ Si la resolución informal no es exitosa, las disputas se resolverán conforme a
 
 Para preguntas sobre estos términos, contáctanos en:
 
-**Correo:** legal@benjiapp.com
+**Correo:** legal@benji-app.org
