@@ -8,7 +8,7 @@ permalink: /terms/es
 
 # Términos de Servicio
 
-**Última actualización: 31 de marzo de 2026**
+**Última actualización: 13 de abril de 2026**
 
 ## Aceptación de los Términos
 
@@ -78,7 +78,7 @@ Podemos modificar estos términos en cualquier momento. El uso continuado de la 
 
 Cualquier disputa que surja de estos términos se abordará primero mediante negociación informal. Contáctanos en legal@benji-app.org para resolver asuntos directamente.
 
-Si la resolución informal no es exitosa, las disputas se resolverán conforme a la ley federal mexicana, incluyendo las leyes de protección al consumidor aplicables. Nada en estos términos limita tus derechos legales como consumidor.
+Si la resolución informal no es exitosa, las disputas se resolverán conforme a las leyes aplicables en tu jurisdicción. Nada en estos términos limita tus derechos legales como consumidor.
 
 ## Contacto
 

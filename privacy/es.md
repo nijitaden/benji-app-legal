@@ -8,7 +8,7 @@ permalink: /privacy/es
 
 # Política de Privacidad
 
-**Última actualización: 31 de marzo de 2026**
+**Última actualización: 13 de abril de 2026**
 
 ## Introducción
 
@@ -29,13 +29,13 @@ Benji ("la App") es una aplicación de finanzas personales desarrollada y operad
 - Tipo de dispositivo y versión del sistema operativo
 - Reportes de errores y datos de rendimiento de la app
 - Ubicación general (país) según la región del App Store
-- Datos de uso anónimos que incluyen identificadores del dispositivo (IDFV), patrones de uso de funciones, pantallas visitadas y eventos de interacción — recopilados mediante Firebase Analytics. Estos datos no están vinculados a tu identidad.
+- Datos de uso anónimos que incluyen identificadores del dispositivo (IDFV), patrones de uso de funciones, pantallas visitadas y eventos de interacción — recopilados mediante un servicio de analíticas de terceros. Estos datos no están vinculados a tu identidad.
 
 ### Información que NO Recopilamos
 
 - Números de cuentas bancarias o credenciales de acceso
 - Números de tarjetas de crédito
-- Números de identificación oficial (INE, CURP, RFC, etc.)
+- Números de identificación oficial
 - Ubicación GPS precisa
 - Contactos, fotos u otros datos del dispositivo
 
@@ -47,7 +47,7 @@ Todos los datos se almacenan localmente en tu dispositivo primero. Puedes usar B
 
 ### Sincronización en la Nube (Opcional)
 
-Si creas una cuenta, tus datos se pueden sincronizar con Firebase (operado por Google) para habilitar respaldos y acceso en múltiples dispositivos. Los datos en la nube están cifrados en tránsito y en reposo. Si activas la sincronización, tus datos pueden almacenarse en servidores fuera de México, incluyendo Estados Unidos.
+Si creas una cuenta, tus datos se pueden sincronizar con un servicio en la nube para habilitar respaldos y acceso en múltiples dispositivos. Los datos en la nube están cifrados en tránsito y en reposo. Si activas la sincronización, tus datos pueden almacenarse en servidores fuera de tu país de residencia.
 
 Puedes usar Benji sin sincronización en la nube usando el modo Invitado.
 
@@ -67,22 +67,18 @@ Podemos compartir estadísticas anónimas y agregadas (como "número promedio de
 
 ### Servicios de Terceros
 
-- **Firebase Authentication (Google)** — creación de cuentas e inicio de sesión
-- **Firebase Cloud Firestore (Google)** — sincronización en la nube y respaldos
-- **Firebase Analytics (Google)** — analíticas de uso anónimas. Estos datos no están vinculados a tu identidad y se usan únicamente para mejorar la app.
-- **Banco Central Europeo** — tipos de cambio de divisas (no se envían datos personales)
-- **CoinCap** — precios de criptomonedas (no se envían datos personales)
+Utilizamos servicios de terceros para respaldar la funcionalidad de la app, incluyendo autenticación de cuentas, almacenamiento y respaldo de datos en la nube, analíticas de uso anónimas y datos de mercado como tipos de cambio de divisas. Estos servicios pueden procesar datos según lo descrito en sus propias políticas de privacidad. No se comparten datos financieros personales con estos proveedores más allá de lo necesario para el funcionamiento del servicio.
 
 ## Tus Derechos
 
-Conforme a la ley mexicana (LFPDPPP), tienes derechos ARCO sobre tus datos personales:
+Tienes los siguientes derechos sobre tus datos personales:
 
 - **Acceso** — solicitar una copia de todos los datos personales que tenemos sobre ti
-- **Rectificación** — corregir cualquier dato personal inexacto
-- **Cancelación** — solicitar la eliminación de tus datos personales
+- **Corrección** — corregir cualquier dato personal inexacto
+- **Eliminación** — solicitar la eliminación de tus datos personales
 - **Oposición** — oponerte a ciertos tipos de tratamiento de datos
 
-También puedes retirar tu consentimiento en cualquier momento eliminando tu cuenta. Para ejercer estos derechos, contáctanos en el correo que aparece abajo. Responderemos en un plazo de 20 días hábiles.
+También puedes retirar tu consentimiento en cualquier momento eliminando tu cuenta. Para ejercer estos derechos, contáctanos en el correo que aparece abajo. Responderemos en un plazo razonable conforme a la legislación aplicable.
 
 ## Retención de Datos
 
@@ -107,8 +103,8 @@ Podemos actualizar esta Política de Privacidad de vez en cuando. Te notificarem
 
 ## Contáctanos
 
-Para preguntas sobre esta Política de Privacidad, tus datos o para ejercer tus derechos ARCO:
+Para preguntas sobre esta Política de Privacidad, tus datos o para ejercer tus derechos:
 
 **Correo:** legal@benji-app.org
 
-Benji App es el responsable del tratamiento de tus datos personales conforme a esta Política de Privacidad.
+Benji App es el responsable de tus datos personales conforme a esta Política de Privacidad.

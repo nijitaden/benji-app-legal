@@ -8,7 +8,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Last updated: 31 March 2026**
+**Last updated: 13 April 2026**
 
 ## Introduction
 
@@ -29,13 +29,13 @@ Benji ("the App") is a personal finance tracking application developed and opera
 - Device type and operating system version
 - App crash reports and performance data
 - General location (country) from App Store region
-- Anonymous usage data including device identifiers (IDFV), feature usage patterns, screen views, and app interaction events — collected via Firebase Analytics. This data is not linked to your identity.
+- Anonymous usage data including device identifiers (IDFV), feature usage patterns, screen views, and app interaction events — collected via a third-party analytics service. This data is not linked to your identity.
 
 ### Information We Do NOT Collect
 
 - Bank account numbers or login credentials
 - Credit card numbers
-- Government ID numbers (INE, CURP, RFC, etc.)
+- Government-issued identification numbers
 - Precise GPS location
 - Contacts, photos, or other device data
 
@@ -47,7 +47,7 @@ All data is stored locally on your device first. You can use Benji completely of
 
 ### Cloud Sync (Optional)
 
-If you create an account, your data can be synced to Firebase (operated by Google) to enable backup and multi-device access. Cloud data is encrypted in transit and at rest. If you enable cloud sync, your data may be stored on servers outside of Mexico, including the United States.
+If you create an account, your data can be synced to a cloud service to enable backup and multi-device access. Cloud data is encrypted in transit and at rest. If you enable cloud sync, your data may be stored on servers outside your country of residence.
 
 You can use Benji without cloud sync by using Guest mode.
 
@@ -67,22 +67,18 @@ We may share anonymised, aggregated statistics (such as "average number of expen
 
 ### Third-Party Services
 
-- **Firebase Authentication (Google)** — account creation and sign-in
-- **Firebase Cloud Firestore (Google)** — cloud data sync and backup
-- **Firebase Analytics (Google)** — anonymous usage analytics. This data is not linked to your identity and is used solely to improve the app.
-- **European Central Bank** — currency exchange rates (no personal data sent)
-- **CoinCap** — cryptocurrency prices (no personal data sent)
+We use third-party services to support the app's functionality, including account authentication, cloud data storage and backup, anonymous usage analytics, and market data such as currency exchange rates. These services may process data as described in their own privacy policies. No personal financial data is shared with these providers beyond what is necessary for the service to function.
 
 ## Your Rights
 
-Under Mexican law (LFPDPPP), you have ARCO rights over your personal data:
+You have the following rights regarding your personal data:
 
 - **Access** — request a copy of all personal data we hold about you
-- **Rectification** — correct any inaccurate personal data
-- **Cancellation** — request deletion of your personal data
-- **Opposition** — object to certain types of data processing
+- **Correction** — correct any inaccurate personal data
+- **Deletion** — request deletion of your personal data
+- **Objection** — object to certain types of data processing
 
-You can also withdraw consent at any time by deleting your account. To exercise these rights, contact us at the email below. We will respond within 20 business days.
+You can also withdraw consent at any time by deleting your account. To exercise these rights, contact us at the email below. We will respond within a reasonable timeframe in accordance with applicable law.
 
 ## Data Retention
 
@@ -107,7 +103,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 ## Contact Us
 
-For questions about this Privacy Policy, your data, or to exercise your ARCO rights:
+For questions about this Privacy Policy, your data, or to exercise your rights:
 
 **Email:** legal@benji-app.org
 

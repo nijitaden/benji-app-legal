@@ -8,7 +8,7 @@ permalink: /terms/
 
 # Terms of Service
 
-**Last updated: 31 March 2026**
+**Last updated: 13 April 2026**
 
 ## Agreement to Terms
 
@@ -78,7 +78,7 @@ We may modify these terms at any time. Continued use of the app after changes co
 
 Any disputes arising from these terms will first be addressed through informal negotiation. Contact us at legal@benji-app.org to resolve issues directly.
 
-If informal resolution fails, disputes will be resolved in accordance with Mexican federal law, including applicable consumer protection laws. Nothing in these terms limits your statutory consumer rights.
+If informal resolution fails, disputes will be resolved in accordance with the laws applicable in your jurisdiction. Nothing in these terms limits your statutory consumer rights.
 
 ## Contact
 
