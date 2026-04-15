@@ -108,3 +108,7 @@ Para preguntas sobre esta Política de Privacidad, tus datos o para ejercer tus 
 **Correo:** legal@benji-app.org
 
 Benji App es el responsable de tus datos personales conforme a esta Política de Privacidad.
+
+---
+
+[Términos de Servicio](../terms/) &middot; [Soporte](../support-es.html)

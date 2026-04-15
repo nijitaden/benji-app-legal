@@ -108,3 +108,7 @@ For questions about this Privacy Policy, your data, or to exercise your rights:
 **Email:** legal@benji-app.org
 
 Benji App is the data controller responsible for your personal data under this Privacy Policy.
+
+---
+
+[Terms of Service](../terms/) &middot; [Support](../support.html)
