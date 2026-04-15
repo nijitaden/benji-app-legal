@@ -85,3 +85,7 @@ Si la resolución informal no es exitosa, las disputas se resolverán conforme a
 Para preguntas sobre estos términos, contáctanos en:
 
 **Correo:** legal@benji-app.org
+
+---
+
+<p><a href="../privacy/es">Política de Privacidad</a> &middot; <a href="../support-es.html">Soporte</a></p>

@@ -111,4 +111,4 @@ Benji App es el responsable de tus datos personales conforme a esta Política de
 
 ---
 
-[Términos de Servicio](../terms/) &middot; [Soporte](../support-es.html)
+<p><a href="../terms/es">Términos de Servicio</a> &middot; <a href="../support-es.html">Soporte</a></p>

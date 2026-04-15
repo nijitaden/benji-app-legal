@@ -85,3 +85,7 @@ If informal resolution fails, disputes will be resolved in accordance with the l
 For questions about these terms, contact us at:
 
 **Email:** legal@benji-app.org
+
+---
+
+<p><a href="../privacy/">Privacy Policy</a> &middot; <a href="../support.html">Support</a></p>

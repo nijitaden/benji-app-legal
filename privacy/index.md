@@ -111,4 +111,4 @@ Benji App is the data controller responsible for your personal data under this P
 
 ---
 
-[Terms of Service](../terms/) &middot; [Support](../support.html)
+<p><a href="../terms/">Terms of Service</a> &middot; <a href="../support.html">Support</a></p>
